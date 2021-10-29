@@ -1,0 +1,2 @@
+# Online-COVID-19-Screening-Test-System
+The system is designed for a medical centre to make convenience of people to book a COVID-19 testing slot whether they have related symptoms, so they will be able to test whether they are positive for COVID-19 and receive their test results. However, the system will prioritize people with higher infected risk to seek medical help, so that people can get the proper treatment as soon as possible.
